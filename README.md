@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Gaidi 👋</h1>
+<h1 align="center">Hi, I'm Gaidi</h1>
 
 <p align="center">
   <b>Senior Full Stack Engineer · React / Next.js / Node.js / FastAPI / React Native</b><br/>
-  5 years shipping production platforms · CI/CD · AI-Native · Open to Senior roles in France 🇫🇷 Germany 🇩🇪 Netherlands 🇳🇱 UK 🇬🇧 Canada 🇨🇦
+  5 years shipping production platforms · CI/CD · AI-Native · Open to Senior roles in France, Germany, Netherlands, UK, Canada
 </p>
 
 <p align="center">
@@ -13,41 +13,38 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🏢 Currently @ **IntiGo** — Tunisia's #1 last-mile delivery platform (+10M parcels)
-- 🤝 Freelancing for **CoachFit / FitIn** (AI fitness app) & **Kreatek** (TravelTech / 24resa)
-- 🧠 5 years of **full end-to-end ownership**: architecture, delivery, CI/CD, mentoring
-- 📊 Track record: **55% page-load gain**, **180+ vulns resolved**, **Security Rating A**, **3K+ users in 6 months**
-- 🤖 AI-native engineer: daily user of **Cursor, Claude, Stitch, Antigravity**
-- 📍 Based in **Tunis, Tunisia** · Open to relocation / sponsored visa
-- 📄 [View my CV](https://lamjed-gaidi.netlify.app/en) · ✉️ lamjed.gaidi070@gmail.com
+- Freelancing for **CoachFit / FitIn** (AI fitness app) & **Kreatek** (TravelTech / 24resa)
+- 5 years of **full end-to-end ownership**: architecture, delivery, CI/CD, mentoring
+- Track record: **55% page-load gain**, **180+ vulns resolved**, **Security Rating A**, **3K+ users in 6 months**
+- AI-native engineer: daily user of **Cursor, Claude, Stitch, Antigravity**
+- Based in **Tunis, Tunisia** · Open to relocation / sponsored visa
+- [View my CV](https://lamjed-gaidi.netlify.app/en) · lamjed.gaidi070@gmail.com
 
 ---
 
-## 💼 Current Roles
+## Current Roles
 
 | Company | Role | Domain |
 |---|---|---|
-| [IntiGo](https://intigo.net/) | Full Stack Engineer (Permanent) | Last-Mile Delivery · Logistics |
 | CoachFit / FitIn | React Native + AI (Freelance) | FitTech · Mobile B2C |
 | [Kreatek / 24resa](http://kreatek.tn/) | Full Stack Developer (Freelance) | TravelTech · Hotel Booking |
 
 ---
 
-## 🏆 Key Achievements
+## Key Achievements
 
 | Achievement | Impact |
 |---|---|
-| ⚡ Fast integration at IntiGo | Mapped full codebase + shipped 3 prod features in **Week 1** |
-| 📈 55% page load improvement | 2.9s → 1.3s via Next.js SSR + code splitting at Mindquest |
-| 🔒 Security Rating A (SonarQube) | 180+ vulns resolved, bug density −35%, test coverage +45% |
-| 👥 3,000+ users in 6 months | Architecture lead on Qramer EdTech marketplace |
-| 🚀 100% CI/CD automation | GitLab CI + Expo pipelines — weeks → hours deployment |
+| 55% page load improvement | 2.9s to 1.3s via Next.js SSR + code splitting at Mindquest |
+| Security Rating A (SonarQube) | 180+ vulns resolved, bug density -35%, test coverage +45% |
+| 3,000+ users in 6 months | Architecture lead on Qramer EdTech marketplace |
+| 100% CI/CD automation | GitLab CI + Expo pipelines — weeks to hours deployment |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend & Mobile
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -82,18 +79,18 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
 | [OmniStore](https://github.com/arnisto/OmniStore-) | Production e-commerce on 22 Kafka microservices, fraud detection, ML recommendations | TypeScript, Kafka |
 | [Payment Dashboard](https://github.com/arnisto/payment-dashboard-back) | Node.js REST API — payments, user orchestration, audit logging | Node.js, MySQL |
 | [p5 Geospatial](https://github.com/arnisto/p5) | Real-time USGS earthquake map with Web Mercator projection on Mapbox | JavaScript, p5.js |
-| [Pokédex](https://github.com/arnisto/pokemon) | Next.js Pokédex with GraphQL, Storybook, and PokeAPI | Next.js, TypeScript |
+| [Pokedex](https://github.com/arnisto/pokemon) | Next.js Pokedex with GraphQL, Storybook, and PokeAPI | Next.js, TypeScript |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arnisto&show_icons=true&theme=dark&hide_border=true" alt="Gaidi GitHub Stats" width="48%"/>
@@ -102,11 +99,11 @@
 
 ---
 
-## ✈️ Open To
+## Open To
 
-- 🌍 **Relocation**: France, Germany, Netherlands, UK, or Canada (on-site, hybrid, or sponsored)
-- 🚀 **Senior / Tech Lead roles** — teams where engineers own architecture and outcomes
-- 📅 Currently in a permanent role — **available to discuss** for the right opportunity
+- **Relocation**: France, Germany, Netherlands, UK, or Canada (on-site, hybrid, or sponsored)
+- **Senior / Tech Lead roles** — teams where engineers own architecture and outcomes
+- Currently open to the right opportunity
 
 ---
 
